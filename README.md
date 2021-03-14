@@ -1,4 +1,4 @@
-## Mis-heard Ben Franlin Quotes
+## Misheard Ben Franklin Quotes
 My program takes 5 different components, randomly selects one of each, and puts them together to return a "mis-heard" Franklin quote.
 
 ### Table of Contents
