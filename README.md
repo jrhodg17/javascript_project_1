@@ -2,9 +2,9 @@
 My program takes 5 different components, randomly selects one of each, and puts them together to return a "mis-heard" Franklin quote.
 
 ### Table of Contents
-- Technologies
-- Setup
-- Contact
+- [Technologies](https://github.com/jrhodg17/javascript_project_1#technologies)
+- [Setup](https://github.com/jrhodg17/javascript_project_1#setup)
+- [Contact](https://github.com/jrhodg17/javascript_project_1#contact)
 
 ### Technologies
 Plain old, vanilla Javascript is pretty much it! You'll need to know how to use the Command Line Interface as well.
